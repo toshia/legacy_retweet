@@ -1,0 +1,12 @@
+---
+slug: :legacy_retweet
+depends:
+  mikutter: '5.1.0'
+  plugin:
+    - command
+version: '1.0'
+author: toshi_a
+name: Legacy retweet
+description: >-
+  非公式リツイート(「RT @{SN}: ...」のような形式)を行うためのmikutterコマンドを追加する。
+  mikutter 5.0までは標準実装だったが、5.1からは削除されたため、引き続き使うためにはこのプラグインを入れてください。
